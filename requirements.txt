@@ -1,0 +1,6 @@
+fastapi
+tortoise-orm
+passlib
+python-jose
+uvicorn
+pydantic[email]
