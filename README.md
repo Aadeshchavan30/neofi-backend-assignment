@@ -23,7 +23,7 @@ This project is a fully functional RESTful API built with FastAPI for collaborat
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/neofi-backend-assignment.git
+git clone https://github.com/Aadeshchavan30/neofi-backend-assignment.git
 cd neofi-backend-assignment
 
 # Create and activate a virtual environment
